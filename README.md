@@ -36,6 +36,6 @@
 
 ---
 ### :fire: My Stats :
-![](https://github-readme-stats.vercel.app/api?username=jungersa&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jungersa&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jungersa&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=jungersa&hide_border=true&include_all_commits=true&count_private=true&theme=radical)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jungersa&hide_border=true&theme=radical)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jungersa&hide_border=true&include_all_commits=false&count_private=true&layout=compact&theme=radical)
