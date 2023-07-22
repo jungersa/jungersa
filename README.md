@@ -13,10 +13,9 @@
 
 ---
 ### :technologist: About Me :
-- :mortar_board: I'm currently a computer science student at Unamur 
-- :seedling: Looking forward to learn data science 
+- :mortar_board: I'm currently a master student in computer science/data science in UCLouvain
 - :zap: In my free times, I'm learning backend development and datasience doing some side projects
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Arnaud_Jungers-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arnaud-jungers-322907255)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Arnaud_Jungers-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arnaud-jungers)
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
